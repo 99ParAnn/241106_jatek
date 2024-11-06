@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "241106_jatek", "241106_jatek\241106_jatek.csproj", "{1C8F4C5D-61A4-4373-B00E-50ED31C0879D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C8F4C5D-61A4-4373-B00E-50ED31C0879D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8F4C5D-61A4-4373-B00E-50ED31C0879D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8F4C5D-61A4-4373-B00E-50ED31C0879D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8F4C5D-61A4-4373-B00E-50ED31C0879D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36FAEAC0-5A21-4DB5-B8BB-BA051C033F3D}
+	EndGlobalSection
+EndGlobal
